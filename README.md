@@ -25,7 +25,7 @@ $$ \ln f(x) = -\frac{1}{2}\ln(2\pi) - \frac{1}{2}\ln(\sigma^{2}) - \frac{(x-\mu)
 ## Findings
 The project successfully estimated the three parameters ($a$, $b$, and $\sigma_r$) using the provided Australian interest rate data and the MLE framework. The estimated parameters were used to generate a suitable table of theoretical yields to maturity. The resulting plot of yield versus maturity period visually demonstrates the term structure of interest rates implied by the Vasicek model, providing a strong understanding of interest rate modeling.
 
-![yield_curve.png](https://github.com/quenstance/2018_ACTL2111_Vasicek_Interest_Rate_Model/blob/829f49d939872d05a39b61ac0d6adb57797850a1/yield_curve.png)
+![yield_curve.png](https://github.com/quenstance/2018_ACTL2111_Vasicek_Interest_Rate_Model/blob/5bbc3202d7eb64e0139fc77a5ad4bd4a798133ea/yield_curve.png)
 
 The following parameters were found using the Excel solver:
 
